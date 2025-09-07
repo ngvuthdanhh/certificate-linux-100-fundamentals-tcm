@@ -11,3 +11,21 @@
 ## Other
 - `which command` – find command location.
 - `dpkg -l` – list installed packages (Debian).
+
+Conditionals
+
+```bash
+if [ $USER == "root" ]; then
+  echo "Admin access"
+else
+  echo "Standard user"
+fi
+```
+
+Loops
+
+```bash
+for i in {1..5}; do
+  echo "Number $i"
+done
+```
