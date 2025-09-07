@@ -1,4 +1,4 @@
-# 🐧 Linux 100 Fundamentals – TCM  
+# 🐧 Linux 100 Fundamentals – TCM Security
 
 ![Course](https://img.shields.io/badge/Linux-100%20Fundamentals-darkgreen?style=flat-square&logo=linux) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Linux%20Basics-informational?style=flat-square&logo=gnometerminal) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
