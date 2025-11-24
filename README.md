@@ -68,7 +68,7 @@ The course provides a solid foundation in **Linux filesystem, permissions, proce
 
 ## 📜 Certificate  
 
-🎓 [`Linux 100 Fundamentals – TCM`](./cert/certificate-linux-100-fundamentals-tcm.pdf)  
+🎓 [`Practical Ethical Hacking – TCM`](./cert/1-practical-ethical-hacking-the-complete-course.pdf) 
 
 ---
 
